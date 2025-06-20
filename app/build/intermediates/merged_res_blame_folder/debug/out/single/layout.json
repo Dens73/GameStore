@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/fragment_profile.xml",
+        "source": "com.gamestore.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/dialog_login.xml",
+        "source": "com.gamestore.app-main-6:/layout/dialog_login.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/fragment_product_detail.xml",
+        "source": "com.gamestore.app-main-6:/layout/fragment_product_detail.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/dialog_checkout.xml",
+        "source": "com.gamestore.app-main-6:/layout/dialog_checkout.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/fragment_cart.xml",
+        "source": "com.gamestore.app-main-6:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/fragment_order_history.xml",
+        "source": "com.gamestore.app-main-6:/layout/fragment_order_history.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/fragment_search.xml",
+        "source": "com.gamestore.app-main-6:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/item_cart.xml",
+        "source": "com.gamestore.app-main-6:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/item_order.xml",
+        "source": "com.gamestore.app-main-6:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.gamestore.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/fragment_home.xml",
+        "source": "com.gamestore.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gamestore.app-mergeDebugResources-3:/layout/item_game.xml",
+        "source": "com.gamestore.app-main-6:/layout/item_game.xml"
+    }
+]

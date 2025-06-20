@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GameStore" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorOnPrimary">@color/background_primary</item>
+        <item name="colorPrimaryContainer">@color/surface_secondary</item>
+        <item name="colorOnPrimaryContainer">@color/text_primary</item>
+        
+        <item name="colorSecondary">@color/accent_secondary</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="colorSecondaryContainer">@color/surface_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/text_primary</item>
+        
+        <item name="colorTertiary">@color/accent_tertiary</item>
+        <item name="colorOnTertiary">@color/background_primary</item>
+        
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/text_primary</item>
+        
+        <item name="colorSurface">@color/surface_primary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceVariant">@color/surface_secondary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/surface_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

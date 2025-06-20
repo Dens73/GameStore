@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_fragment_home.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_edit.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_remove.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_quantity_background.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/quantity_background.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_search.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_item_order.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_avatar_background.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/avatar_background.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_item_game.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/item_game.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_fragment_order_history.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/fragment_order_history.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_home.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_dialog_checkout.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/dialog_checkout.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_fragment_search.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_support.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_support.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_search_background.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_delete.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/color_chip_text_color.xml.flat",
+        "source": "com.gamestore.app-main-6:/color/chip_text_color.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_price_background.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/price_background.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_history.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_fragment_cart.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/color_chip_background_color.xml.flat",
+        "source": "com.gamestore.app-main-6:/color/chip_background_color.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_settings.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/menu_bottom_navigation.xml.flat",
+        "source": "com.gamestore.app-main-6:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_dialog_login.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/dialog_login.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_person.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_add_shopping_cart.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_add_shopping_cart.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_fragment_product_detail.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/fragment_product_detail.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_shopping_cart_empty.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_shopping_cart_empty.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_payment.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_payment.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_add.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_fragment_profile.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_image_placeholder.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/image_placeholder.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_location.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_ic_shopping_cart.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/drawable_discount_badge.xml.flat",
+        "source": "com.gamestore.app-main-6:/drawable/discount_badge.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/layout_item_cart.xml.flat",
+        "source": "com.gamestore.app-main-6:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.gamestore.app-merged_res-4:/color_nav_item_color.xml.flat",
+        "source": "com.gamestore.app-main-6:/color/nav_item_color.xml"
+    }
+]

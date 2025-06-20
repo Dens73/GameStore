@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="background_primary">#0D1117</color>
+    <color name="surface_primary">#161B22</color>
+    <color name="surface_secondary">#21262D</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_primary">#00D9FF</color>
+    <color name="accent_secondary">#7C3AED</color>
+    <color name="accent_tertiary">#F59E0B</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="text_tertiary">#6E7681</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#238636</color>
+    <color name="warning">#D1A01F</color>
+    <color name="error">#DA3633</color>
+    
+    <!-- Utility Colors -->
+    <color name="divider">#30363D</color>
+    <color name="overlay">#80000000</color>
+    
+    <!-- Navigation Colors -->
+    <color name="nav_item_selected">@color/accent_primary</color>
+    <color name="nav_item_unselected">@color/text_secondary</color>
+    
+    <!-- Chip Colors -->
+    <color name="chip_background_selected">@color/accent_primary</color>
+    <color name="chip_background_unselected">@color/surface_secondary</color>
+    <color name="chip_text_selected">@color/background_primary</color>
+    <color name="chip_text_unselected">@color/text_secondary</color>
+</resources>

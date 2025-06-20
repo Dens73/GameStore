@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameStore</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_search">Поиск</string>
+    <string name="nav_cart">Корзина</string>
+    <string name="nav_profile">Профиль</string>
+    
+    <!-- Categories -->
+    <string name="category_new_releases">Новинки</string>
+    <string name="category_action">Экшен</string>
+    <string name="category_rpg">RPG</string>
+    <string name="category_strategy">Стратегии</string>
+    <string name="category_indie">Инди</string>
+    <string name="category_sale">Скидки</string>
+    
+    <!-- Common -->
+    <string name="search_hint">Поиск игр...</string>
+    <string name="add_to_cart">В корзину</string>
+    <string name="price_format">%d ₽</string>
+    <string name="discount_format">-%d%%</string>
+    
+    <!-- Cart -->
+    <string name="cart_empty_title">Корзина пуста</string>
+    <string name="cart_empty_message">Добавьте игры в корзину\nчтобы оформить заказ</string>
+    <string name="subtotal">Стоимость игр:</string>
+    <string name="delivery_fee">Доставка:</string>
+    <string name="total">Всего:</string>
+    <string name="checkout">Оформить заказ</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="order_history">История заказов</string>
+    <string name="settings">Настройки</string>
+    <string name="support">Поддержка</string>
+    <string name="delivery_address">Адрес доставки</string>
+    <string name="registration_date">Дата регистрации: %s</string>
+    
+    <!-- Platforms -->
+    <string name="platform_pc">PC</string>
+    <string name="platform_playstation">PlayStation</string>
+    <string name="platform_xbox">Xbox</string>
+    <string name="platform_nintendo_switch">Nintendo Switch</string>
+    <string name="platform_mobile">Mobile</string>
+    
+    <!-- Messages -->
+    <string name="added_to_cart">Добавлено в корзину!</string>
+    <string name="order_placed">Заказ оформлен! Спасибо за покупку!</string>
+    <string name="support_info">Служба поддержки: support@gamestore.com\nТелефон: +7 (800) 555-GAME</string>
+</resources>

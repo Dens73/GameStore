@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_primary">#00D9FF</color>
+    <color name="accent_secondary">#7C3AED</color>
+    <color name="accent_tertiary">#F59E0B</color>
+    <color name="background_primary">#0D1117</color>
+    <color name="chip_background_selected">@color/accent_primary</color>
+    <color name="chip_background_unselected">@color/surface_secondary</color>
+    <color name="chip_text_selected">@color/background_primary</color>
+    <color name="chip_text_unselected">@color/text_secondary</color>
+    <color name="divider">#30363D</color>
+    <color name="error">#DA3633</color>
+    <color name="nav_item_selected">@color/accent_primary</color>
+    <color name="nav_item_unselected">@color/text_secondary</color>
+    <color name="overlay">#80000000</color>
+    <color name="success">#238636</color>
+    <color name="surface_primary">#161B22</color>
+    <color name="surface_secondary">#21262D</color>
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="text_tertiary">#6E7681</color>
+    <color name="warning">#D1A01F</color>
+    <string name="add_to_cart">В корзину</string>
+    <string name="added_to_cart">Добавлено в корзину!</string>
+    <string name="app_name">GameStore</string>
+    <string name="cart_empty_message">Добавьте игры в корзину\nчтобы оформить заказ</string>
+    <string name="cart_empty_title">Корзина пуста</string>
+    <string name="category_action">Экшен</string>
+    <string name="category_indie">Инди</string>
+    <string name="category_new_releases">Новинки</string>
+    <string name="category_rpg">RPG</string>
+    <string name="category_sale">Скидки</string>
+    <string name="category_strategy">Стратегии</string>
+    <string name="checkout">Оформить заказ</string>
+    <string name="delivery_address">Адрес доставки</string>
+    <string name="delivery_fee">Доставка:</string>
+    <string name="discount_format">-%d%%</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="nav_cart">Корзина</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_profile">Профиль</string>
+    <string name="nav_search">Поиск</string>
+    <string name="order_history">История заказов</string>
+    <string name="order_placed">Заказ оформлен! Спасибо за покупку!</string>
+    <string name="platform_mobile">Mobile</string>
+    <string name="platform_nintendo_switch">Nintendo Switch</string>
+    <string name="platform_pc">PC</string>
+    <string name="platform_playstation">PlayStation</string>
+    <string name="platform_xbox">Xbox</string>
+    <string name="price_format">%d ₽</string>
+    <string name="registration_date">Дата регистрации: %s</string>
+    <string name="search_hint">Поиск игр...</string>
+    <string name="settings">Настройки</string>
+    <string name="subtotal">Стоимость игр:</string>
+    <string name="support">Поддержка</string>
+    <string name="support_info">Служба поддержки: support@gamestore.com\nТелефон: +7 (800) 555-GAME</string>
+    <string name="total">Всего:</string>
+    <style name="Theme.GameStore" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorOnPrimary">@color/background_primary</item>
+        <item name="colorPrimaryContainer">@color/surface_secondary</item>
+        <item name="colorOnPrimaryContainer">@color/text_primary</item>
+        
+        <item name="colorSecondary">@color/accent_secondary</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="colorSecondaryContainer">@color/surface_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/text_primary</item>
+        
+        <item name="colorTertiary">@color/accent_tertiary</item>
+        <item name="colorOnTertiary">@color/background_primary</item>
+        
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/text_primary</item>
+        
+        <item name="colorSurface">@color/surface_primary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceVariant">@color/surface_secondary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/surface_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
